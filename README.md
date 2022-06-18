@@ -1,7 +1,7 @@
 # Hospitality-Revenue-Analysis
 
 #### Data set: 
-The data and introduction details are involved in one Excel file. 
+The data and instructions details are involved in one Excel file. 
 
 #### What I did in this project: 
 1. Analyze and summarize the hotel's historical performance in 2019, including Occupancy, ADR, and RevPAR. Highlight any trends in the data, such as particular days/time periods of under/over performance.
